@@ -36,7 +36,7 @@ def display_start(path):
     my_files = open_folder(path)
     if (my_files == []):
         exit(84)
-    print("Labyrinthes existants :")
+    print("Existing mazes :")
     for enum, val in enumerate (my_files):
         print(str(enum + 1) + " - " + val.split(".txt")[0] + ".")
     choice = selection(enum)
