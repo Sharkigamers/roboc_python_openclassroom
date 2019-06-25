@@ -1,0 +1,7 @@
+[Maze]:
+      -[O]: Wall (infini)
+      -[.]: Doors (infini)
+      -[ ]: Corridor (infini)
+      -[X]: Character (only one)
+      -[U]: Exit (infini)
+      -Maze should be a .txt

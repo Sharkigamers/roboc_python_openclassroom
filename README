@@ -1,0 +1,12 @@
+[Game Rules]:
+      -Moove the player (X) outside of the maze (U)
+      -The maze is compose of obstacles (O)
+      -Doors are represented by "."
+
+[Movements]:
+      -q -> leave
+      -n -> top
+      -s -> bot
+      -e -> right
+      -o -> left
+      -[Character][Number] -> number of move
